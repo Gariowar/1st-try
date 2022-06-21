@@ -1,0 +1,17 @@
+   body {
+      background: rgb(204, 157, 140);
+   }
+   table {
+    background: rgba(17, 0, 255, 0.658); /* цвет фона */
+    border: rgb(0, 255, 21) dotted; /* стиль внешней рамки */
+   }
+   td {
+    border: 0.1ex rgb(255, 0, 179) solid; /* стиль рамки ячеек */
+    padding: 1mm;
+    margin: 1mm;
+   }
+   th {
+    border: 0.1ex rgb(255, 0, 179) solid; /* стиль рамки заголовков */
+    padding: 1mm;
+    margin: 1mm;
+   }
